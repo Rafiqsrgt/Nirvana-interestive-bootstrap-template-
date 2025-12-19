@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Dec 2025 15:30:27 at https://prium.github.io/nirvana/v2.0.0/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://prium.github.io/nirvana/v2.0.0/ -O1 "C:\Users\rafiq\OneDrive\Desktop\Clean\Nirvana (interestive bootstrap template )" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:31:09	Error: 	"Not Found" (404) at link https://prium.github.io/nirvana/v2.0.0/assets/images/favicons/apple-touch-icon.png (from https://prium.github.io/nirvana/v2.0.0/)
+15:31:09	Error: 	"Not Found" (404) at link https://prium.github.io/nirvana/v2.0.0/assets/images/favicons/favicon-32x32.png (from https://prium.github.io/nirvana/v2.0.0/)
+15:31:09	Error: 	"Not Found" (404) at link https://prium.github.io/nirvana/v2.0.0/assets/images/favicons/favicon-16x16.png (from https://prium.github.io/nirvana/v2.0.0/)
+15:31:09	Error: 	"Not Found" (404) at link https://prium.github.io/nirvana/v2.0.0/assets/images/favicons/mstile-150x150.png (from https://prium.github.io/nirvana/v2.0.0/)
+15:32:07	Error: 	"Not Found" (404) at link https://prium.github.io/nirvana/v2.0.0/assets/videos/video.webm (from https://prium.github.io/nirvana/v2.0.0/components/background.html)
+15:32:07	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://smtpjs.com/v3/smtp.js (from https://prium.github.io/nirvana/v2.0.0/components/smtpjs.html)
+15:32:07	Error: 	"Not Found" (404) at link https://prium.github.io/nirvana/v2.0.0/components/maps.html (from https://prium.github.io/nirvana/v2.0.0/docs/plugins.html)
+15:32:07	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://smtpjs.com/v3/smtp.js (from https://prium.github.io/nirvana/v2.0.0/components/smtpjs.html)
+15:32:07	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://smtpjs.com/v3/smtp.js (from https://prium.github.io/nirvana/v2.0.0/components/smtpjs.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 40 seconds : 199 links scanned, 189 files written (59330477 bytes overall) [55481212 bytes received at 554812 bytes/sec], 5163460 bytes transferred using HTTP compression in 84 files, ratio 21%, 24.5 requests per connection
+(7 errors, 2 warnings, 0 messages)
